@@ -1,0 +1,6 @@
+erlang.mk
+.erlang.mk
+.gitattributes
+deps
+.emath.plt
+emath.beam
